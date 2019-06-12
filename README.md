@@ -2,6 +2,8 @@
 
 ## Dependencies
 ### Backend
+- nodemoon
 - mongoose
 - express
 - multer
+- sharp
