@@ -1,1 +1,7 @@
-# Instagram Like App from Omnistack Week
+# Instagram Like App
+
+## Dependencies
+### Backend
+- mongoose
+- express
+- multer
