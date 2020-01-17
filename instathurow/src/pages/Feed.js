@@ -75,10 +75,10 @@ export default class Feed extends Component {
                                     <TouchableOpacity style={styles.action} onPress={() => this.handleLike(item._id)}>
                                         <Image source={like} />
                                     </TouchableOpacity>
-                                    <TouchableOpacity style={styles.action} onPress={() => {}}>
+                                    <TouchableOpacity style={styles.action} onPress={() => { }}>
                                         <Image source={comment} />
                                     </TouchableOpacity>
-                                    <TouchableOpacity style={styles.action} onPress={() => {}}>
+                                    <TouchableOpacity style={styles.action} onPress={() => { }}>
                                         <Image source={send} />
                                     </TouchableOpacity>
                                 </View>
